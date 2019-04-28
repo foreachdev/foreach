@@ -1,3 +1,0 @@
-# foreach
-
-hello world
